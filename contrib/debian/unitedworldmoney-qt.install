@@ -1,0 +1,6 @@
+usr/local/bin/unitedworldmoney-qt usr/bin
+share/pixmaps/unitedworldmoney32.xpm usr/share/pixmaps
+share/pixmaps/unitedworldmoney16.xpm usr/share/pixmaps
+share/pixmaps/unitedworldmoney128.png usr/share/pixmaps
+debian/unitedworldmoney-qt.desktop usr/share/applications
+debian/unitedworldmoney-qt.protocol usr/share/kde4/services/

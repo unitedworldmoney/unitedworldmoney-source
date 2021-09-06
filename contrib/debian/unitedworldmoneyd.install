@@ -1,0 +1,3 @@
+usr/local/bin/unitedworldmoneyd usr/bin
+usr/local/bin/unitedworldmoney-cli usr/bin
+debian/examples/unitedworldmoney.conf etc/unitedworldmoney

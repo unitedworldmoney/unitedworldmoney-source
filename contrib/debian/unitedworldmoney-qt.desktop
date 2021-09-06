@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=UnitedWorldMoney Core
+Comment=UnitedWorldMoney P2P Cryptocurrency
+Comment[fr]=UnitedWorldMoney, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=UnitedWorldMoney, eşten eşe kriptografik sanal para birimi
+Exec=unitedworldmoney-qt %u
+Terminal=false
+Type=Application
+Icon=unitedworldmoney128
+MimeType=x-scheme-handler/unitedworldmoney;
+Categories=Office;Finance;
+StartupWMClass=UnitedWorldMoney-qt
